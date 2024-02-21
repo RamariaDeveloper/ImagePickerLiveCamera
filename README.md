@@ -9,6 +9,7 @@ This Android application was developed with <b>Kotlin</b> and <b>Tensor Flow</b>
 
 ## Technology Used
 - Developed using Kotlin for native development.
+- Jetpack Compose
 - Built with Gradle
 - Utilizes Tensor Flow for Image Recognition
 - Developed in Android Studio
